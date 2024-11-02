@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.derfruhling.minecraft.dropshipping.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "dropshipping.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
